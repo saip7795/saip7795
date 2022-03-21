@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **saipraveen1211@gmail.com**
 
-- 📄 Know about my experiences [saipraveensriramoju.com](saipraveensriramoju.com)
+- 📄 Know about my experiences [saipraveensriramoju.com](https://www.saipraveensriramoju.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
