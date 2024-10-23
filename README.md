@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sai Praveen Sriramoju</h1>
-<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=2000&color=58A6FF&width=520&lines=Full+Stack+Developer+Based+in+Toronto++%F0%9F%92%BB" alt="Typing SVG" />
+<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=2000&color=58A6FF&width=520&lines=Senior+Full+Stack+Developer+Based+in+Toronto++%F0%9F%92%BB" alt="Typing SVG" />
 </h3>
 
 <h3 align="left">Connect with me:</h3>
@@ -16,8 +16,6 @@
 ---
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saip7795&" alt="saip7795" /></p>
 
----
-![Sai Praveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=saip7795&count_private=true&show_icons=true&theme=synthwave)
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saip7795&layout=compact)](https://github.com/saip7795/github-readme-stats)
