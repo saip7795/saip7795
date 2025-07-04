@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sai Praveen Sriramoju</h1>
-<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=2000&color=58A6FF&width=520&lines=Senior+Full+Stack+Developer+Based+in+Toronto++%F0%9F%92%BB" alt="Typing SVG" />
+<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=2000&color=58A6FF&width=520&lines=Sr+Full+Stack+Developer+Based+in+🇨🇦++%F0%9F%92%BB" alt="Typing SVG" />
 </h3>
 
 <h3 align="left">Connect with me:</h3>
